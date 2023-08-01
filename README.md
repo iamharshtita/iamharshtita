@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamharshtita
-- 👀 I’m interested in blockchain, ML, data structures.
-- 🌱 I’m currently learning ML and Blockchain
-- 💞️ I’m looking to collaborate on blockchain
+- 👀 I’m interested in Microservices, ML, data structures.
+- 🌱 I’m currently learning Golang and system designing
+- 💞️ I’m looking to collaborate on Golang
 - 📫 How to reach me : mail me @ harshtita01@gmail.com
 
 <!---
